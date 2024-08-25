@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My Self Chetan Patel.<br>
-This is my first repository of GIT.<br>
+
 
 - 🔭 I’m currently working on AWS cloud technology.
 - 🌱 I’m currently learning AWS.
